@@ -9,21 +9,18 @@
             5 Тестировать мобильные приложение в AndroidStudio
 
 Навыки и технологии : 
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
-SoapUI, Android Studio, Charles, Git, DevTools,Mockoon,powershel,pgadmin.
 
-<img src="https://img.shields.io/badge/Jira-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/qase.io-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/SQL-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Postman-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Swagger-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/SoapUI-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Android Studio-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Charles-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/DevTools-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Mockoon-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/powershel-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/pgadmin-652e87?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Jira-652e87?style=for-the-badge&logo=Jira&logoColor=black"/><img src="https://img.shields.io/badge/qase.io-652e87?style=for-the-badge&logo=qase.io&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/SQL-652e87?style=for-the-badge&logo=SQL&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Postman-652e87?style=for-the-badge&logo=Postman&logoColor=black"/>
+<img src="https://img.shields.io/badge/Swagger-652e87?style=for-the-badge&logo=Swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/SoapUI-652e87?style=for-the-badge&logo=SoapUI&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Android Studio-652e87?style=for-the-badge&logo=Android Studio&logoColor=black"/>
+<img src="https://img.shields.io/badge/Charles-652e87?style=for-the-badge&logo=Charles&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/DevTools-652e87?style=for-the-badge&logo=/DevTools&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Mockoon-652e87?style=for-the-badge&logo=Mockoon&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/powershel-652e87?style=for-the-badge&logo=powershel&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/pgadmin-652e87?style=for-the-badge&logo=pgadmin&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
 Проекты
 Проект 1: тест веб-приложения для учителей от Skyeng
